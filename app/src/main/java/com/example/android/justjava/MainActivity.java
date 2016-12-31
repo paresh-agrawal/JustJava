@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
     public void increment(View view) {
         quantity++;
         display(quantity);
-    }//Check
+    }
 
     /**
      * This method is called when minus button is tapped and decrements the quantity of Quantity text view by 1
