@@ -65,5 +65,5 @@ public class MainActivity extends AppCompatActivity {
         quantity--;
         display(quantity);
     }
-    //trying my first
+    //trying my first commit
 }
